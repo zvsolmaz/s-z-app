@@ -1,0 +1,9 @@
+
+SIP2852024.015 Lahmacun 75.00 TL Hazirlanma : 1.00 dk User:zeynep-123 Durum:Hazirlaniyor
+ 
+SIP2852024.015 Hamburger 250.00 TL Hazirlanma : 30.00 dk User:zeynep-123 Durum:Hazirlaniyor
+ 
+SIP2852024.015 Tavuk_Durum 80.00 TL Hazirlanma : 15.00 dk User:zeynep-123 Durum:Gecersiz
+ 
+SIP2852024.015 Lahmacun 75.00 TL Hazirlanma : 1.00 dk User:zeynep-123 Durum:Hazirlaniyor
+ 

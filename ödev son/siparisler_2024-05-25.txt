@@ -1,0 +1,39 @@
+
+SIP2352024.082 Lahmacun 75.00 TL Hazirlanma : 1.00 dk User:zeynep-123 Durum: Teslim Edildi
+ 
+SIP2352024.082 Hamburger 250.00 TL Hazirlanma : 30.00 dk User:zeynep-123 Durum:Teslim Edildi
+ 
+SIP2352024.082 Tost 60.00 TL Hazirlanma : 10.00 dk User:zeynep-123 Durum:Gecersiz
+ 
+SIP2352024.083 Lahmacun 75.00 TL Hazirlanma : 1.00 dk User:sena-123 Durum: Teslim Edildi
+ 
+SIP2352024.083 Hamburger 250.00 TL Hazirlanma : 30.00 dk User:sena-123 Durum:Teslim Edildi
+ 
+SIP2352024.084 Hamburger 250.00 TL Hazirlanma : 30.00 dk User:fuslat-23 Durum:Teslim Edildi
+ 
+SIP2352024.084 Lahmacun 75.00 TL Hazirlanma : 1.00 dk User:fuslat-23 Durum:Gecersiz
+ 
+SIP2352024.085 Tavuk_Durum 80.00 TL Hazirlanma : 15.00 dk User:vuslat-56 Durum:Teslim Edildi
+
+SIP2352024.086 Lahmacun 75.00 TL Hazirlanma : 1.00 dk User:esra-12 Durum:Teslim Edildi
+ 
+SIP2352024.086 Hamburger 250.00 TL Hazirlanma : 30.00 dk User:esra-12 Durum:Teslim Edildi
+ 
+SIP2352024.086 Tavuk_Durum 80.00 TL Hazirlanma : 15.00 dk User:esra-12 Durum:Gecersiz
+ 
+SIP2352024.087 Tost 60.00 TL Hazirlanma : 10.00 dk User:beyza-23 Durum:Teslim Edildi
+ 
+SIP2352024.087 Tavuk_Durum 80.00 TL Hazirlanma : 15.00 dk User:beyza-23 Durum:Gecersiz
+
+SIP2552024.001 Lahmacun 75.00 TL Hazirlanma : 1.00 dk User:selin-12 Durum:Gecersiz
+ 
+SIP2552024.001 Tost 60.00 TL Hazirlanma : 10.00 dk User:selin-12 Durum:Teslim Edildi
+ 
+SIP2552024.001 Tavuk_Durum 80.00 TL Hazirlanma : 15.00 dk User:selin-12 Durum:Teslim Edildi
+ 
+SIP2552024.002 Lahmacun 75.00 TL Hazirlanma : 1.00 dk User:sevval-1 Durum:Teslim Edildi
+ 
+SIP2552024.002 Hamburger 250.00 TL Hazirlanma : 30.00 dk User:sevval-1 Durum:Hazirlaniyor Chef:A1 Preparation Start:2024-05-25 03:29:26 Preparation End:2024-05-25 03:59:26
+ 
+SIP2552024.002 Tavuk_Durum 80.00 TL Hazirlanma : 15.00 dk User:sevval-1 Durum:Hazirlaniyor Chef:A2 Preparation Start:2024-05-25 03:36:26 Preparation End:2024-05-25 03:51:26
+ 

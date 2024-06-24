@@ -1,0 +1,9 @@
+SIP1952024.072 Lahmacun 75.00 TL Baslangic: 19.05.2024-23.26  Bitis: 19.05.2024-23.27  User:buse-12 Durum:Hazirlaniyor
+ SIP1952024.072 Lahmacun 75.00 TL Baslangic: 19.05.2024-23.26  Bitis: 19.05.2024-23.27  User:buse-12 Durum:Hazirlaniyor
+ SIP1952024.072 Lahmacun 75.00 TL Baslangic: 19.05.2024-23.26  Bitis: 19.05.2024-23.27  User:buse-12 Durum:Gecersiz
+ SIP1952024.073 Hamburger 250.00 TL Baslangic: 19.05.2024-23.26  Bitis: 19.05.2024-23.56  User:sude-23 Durum:Hazirlaniyor
+ SIP1952024.073 Lahmacun 75.00 TL Baslangic: 19.05.2024-23.26  Bitis: 19.05.2024-23.27  User:sude-23 Durum:Gecersiz
+ SIP1952024.074 Tavuk_Durum 80.00 TL Baslangic: 19.05.2024-23.27  Bitis: 19.05.2024-23.42  User:esra-26 Durum:Gecersiz
+ SIP1952024.074 Hamburger 250.00 TL Baslangic: 19.05.2024-23.27  Bitis: 19.05.2024-23.57  User:esra-26 Durum:Hazirlaniyor
+ SIP1952024.074 Lahmacun 75.00 TL Baslangic: 19.05.2024-23.27  Bitis: 19.05.2024-23.28  User:esra-26 Durum:Gecersiz
+ 
