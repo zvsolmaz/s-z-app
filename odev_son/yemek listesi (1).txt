@@ -1,0 +1,9 @@
+1	     Lahmacun               75 TL                         1                     Mevcut
+2	     Hamburger              250 TL                        30                    Mevcut
+3            Manti                  160 TL                        45                    Mevcut_Degil
+4            Tost                   70 TL                         10                    Mevcut
+5	     Tavuk_Durum            80 TL                         15                    Mevcut
+6	     Et_Durum               160 TL                        15                    Mevcut_Degil
+8            Tokat_Kebabi           250 TL                        60                    Mevcut
+9            Yaglama                100 TL                        40                    Mevcut
+10           0                      0 TL                          0                     0
